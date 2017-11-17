@@ -72,7 +72,6 @@ public class PropertyList {
                 temp = temp.getNextNode();
             return temp == null ? null : temp.getProperty();
         }
-
     }
 
     /**

@@ -40,3 +40,5 @@ Address = dc1, Distance to WIT = 32.0, Car Spaces Available = 2
 Address = dc1, Distance to WIT = 32.0, Car Spaces Available = 2
 Address = dc1, Distance to WIT = 32.0, Car Spaces Available = 2
 Address = dc1, Distance to WIT = 32.0, Car Spaces Available = 2
+Address = dc1, Distance to WIT = 32.0, Car Spaces Available = 3
+Address = dc2, Distance to WIT = 34.0, Car Spaces Available = 1

@@ -86,12 +86,13 @@ public class Property {
      *           2 if Data entered is Invalid (i.e. If Data does not comply with Validation Rules)
      */
     public static int checkCarSpaces (int carSpaces) {
-        int b = carSpaces;
-        if ((b >= 0) && (b <= 3)) {
+        if ((carSpaces >= 0) && (carSpaces <= 3)) {
             return 1;
         } else {
             return 0;
         }
+
+        //return ((carSpaces >= 0) && (b <= 3)) ? 1 : 0;
     }
 
     /**
